@@ -1,8 +1,9 @@
 # ECE2112-PA4
 # September 17, 2024
 
-## import pandas as pd - 
+## import pandas as pd 
 ## boards = pd.read_csv('board2.csv') - to read the given csv file.
+## matplotlib.pyplot - to be used for the graphs.
 
 # PROBLEM 1 #
 ## Create the following data frames based on the format provided:
